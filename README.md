@@ -1,6 +1,6 @@
 ## Airdrop ASC Simple Landing Page
 
-[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/<aWcEwgJrO119bgYgwmYNCw5YNbD7sWywUDPGX61uzE>)
+[![protocol.land](https://arweave.net/eZp8gOeR8Yl_cyH9jJToaCrt2He1PHr0pR4o-mHbEcY)](https://protocol.land/#/repository/<20c57989-01a5-4f54-ba48-85574f3c824f>)
 
 ### Live View
 
