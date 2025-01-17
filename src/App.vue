@@ -19,7 +19,7 @@ onMounted(() => {
 </script>
 
 <template>
-	<div class="text-container">Airdrop ASC</div>
+	<div class="text-container">Loading your Airdrop..</div>
 	<div class="rain" ref="rainContainer"></div>
 </template>
 
@@ -31,7 +31,7 @@ body {
 	align-items: center;
 	height: 100vh;
 	background-color: #000;
-	color: #0f0;
+	color: #ffd900;
 	font-family: "Courier New", Courier, monospace;
 	font-size: 3rem;
 	text-shadow: 0 0 10px #0f0, 0 0 20px #0f0, 0 0 30px #0f0;
