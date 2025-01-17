@@ -31,10 +31,10 @@ body {
 	align-items: center;
 	height: 100vh;
 	background-color: #000;
-	color: #ffd900;
+	color: #ffffff;
 	font-family: "Courier New", Courier, monospace;
 	font-size: 3rem;
-	text-shadow: 0 0 10px #0f0, 0 0 20px #0f0, 0 0 30px #0f0;
+	text-shadow: 0 0 10px #ffd900, 0 0 20px #ffd900, 0 0 30px #0f0;
 	overflow: hidden;
 	position: relative;
 	padding: 0 20px;
@@ -66,7 +66,7 @@ body {
 
 .rain span {
 	position: absolute;
-	color: #0f0;
+	color: #ffd900;
 	font-size: 1.5rem;
 	font-family: "Courier New", Courier, monospace;
 	animation: matrixRain linear infinite;
