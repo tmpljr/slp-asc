@@ -82,7 +82,7 @@ body {
 .text-container {
 	position: relative;
 	z-index: 1;
-	background-color: rgba(0, 0, 0, 0.8);
+	background-color: rgba(0, 0, 0, 0.7);
 	padding: 20px 40px;
 	font-size: 3rem;
 }
